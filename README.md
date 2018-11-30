@@ -1,5 +1,5 @@
 # SafeZone
-
+My discord: https://discord.gg/e9kB9e7
 
 We edited the safezone script made by davewazere
 
